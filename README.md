@@ -44,6 +44,7 @@ To get started with this project, follow these steps:
 2. **Install dependencies:**
    ```
    npm install
+   npx playwright install
    ```
 
 3. **Run the application:**
@@ -53,7 +54,7 @@ To get started with this project, follow these steps:
 
 4. **Run the tests:**
    ```
-   npm test
+   npx playwright test
    ```
 
 ## Testing with Playwright
